@@ -1,12 +1,11 @@
 name: flutter_size_matters
 description: "Flutter size matters"
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/cisplRejjak/flutter_size_matters
 issue_tracker: https://github.com/cisplRejjak/flutter_size_matters/issues
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
-  flutter: ">=1.17.0"
 
 dependencies:
   flutter:

@@ -1,3 +1,3 @@
-## 1.0.1
+## 1.0.2
 
-* Mentioned platforms
+* Version solving failed issue fixed

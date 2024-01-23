@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_size_matters: ^1.0.2  
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

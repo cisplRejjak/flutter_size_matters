@@ -11,7 +11,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     ScallingConfig().init(context);
-    return const MaterialApp(
+    return MaterialApp(
       home: Scaffold(
         body: Center(
           child: Text('Hello World!',style: TextStyle(fontSize: ScallingConfig.moderateScale(14)),),
