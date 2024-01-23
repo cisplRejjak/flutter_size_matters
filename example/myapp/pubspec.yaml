@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_size_matters: ^1.0.0
 
 dev_dependencies:
   flutter_test:
