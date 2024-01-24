@@ -51,5 +51,14 @@ class MainApp extends StatelessWidget {
 }
 ```
 
+#### Others Functions
+
+| Function                   | Type      | Description                                    |
+| :----------------------- | :-------: | :--------------------------------------------  |
+| scale                    | `func`    | Method for scaling a given size based on the shorter dimension of the screen and the guidelineBaseWidth|
+| verticalScale                    | `func`    | Method for scaling a given size based on the longer dimension of the screen and the guidelineBaseHeight|
+| moderateScale                    | `func`    | Method that applies a moderate scaling factor to a given size, considering both width and height|
+| moderateScaleVertical                    | `func`    | Method that applies a moderate scaling factor to a given size, considering only the height.|
+
 ## Additional information
 This package will support Windows, macOS, Linux, Android, iOS, and all modern browsers.
