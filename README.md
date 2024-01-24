@@ -2,7 +2,20 @@
 A streamlined, dependency-free toolkit for Flutter, designed to effortlessly resize your app's UI for optimal performance on various devices. Perfect for ensuring a consistent and seamless user experience across a diverse range of screen sizes.
 
 ## Screenshots
-![flutter_size_matters](/assets/with_m_ipad.png?raw=true "")
+
+#### Without size matters
+<p align="center">
+  <img src="/assets/without_m_ipad.png?raw=true" alt="Image 1" width="30%" height="300px">
+  <img src="/assets/without_m_mobile.png?raw=true" alt="Image 2" width="30%" height="300px">
+  <img src="/assets/without_m_web.png?raw=true" alt="Image 3" width="30%" height="300px">
+</p>
+
+#### With size matters
+<p align="center">
+  <img src="/assets/with_m_ipad.png?raw=true" alt="Image 1" width="30%" height="300px">
+  <img src="/assets/with_m_mobile.png?raw=true" alt="Image 2" width="30%" height="300px">
+  <img src="/assets/with_m_web.png?raw=true" alt="Image 3" width="30%" height="300px">
+</p>
 
 ## Usage
 
