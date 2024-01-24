@@ -1,4 +1,4 @@
-# Responsive Design Mastery for Flutter: Tailored Media Query and Scaling Configuration
+# Responsive Design Mastery for Flutter: Media Query and Scaling Configuration
 Discover the ultimate solution for Flutter app development with our streamlined and dependency-free toolkit. Seamlessly resize your app's UI with precision, ensuring optimal performance on a myriad of devices. Our comprehensive media query and scaling configuration empower you to effortlessly create a consistent and seamless user experience across diverse screen sizes. Elevate your Flutter applications to the next level with this indispensable tool for responsive design.
 
 ## Screenshots
