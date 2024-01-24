@@ -51,7 +51,7 @@ class MainApp extends StatelessWidget {
 }
 ```
 
-#### Others Functions
+## Others Functions
 
 | Function                   | Type      | Description                                    |
 | :----------------------- | :-------: | :--------------------------------------------  |
