@@ -5,16 +5,16 @@ A streamlined, dependency-free toolkit for Flutter, designed to effortlessly res
 
 #### Without size matters
 <p align="center">
-  <img src="/assets/without_m_ipad.png?raw=true" alt="Image 1" width="30%" height="300px">
-  <img src="/assets/without_m_mobile.png?raw=true" alt="Image 2" width="30%" height="300px">
-  <img src="/assets/without_m_web.png?raw=true" alt="Image 3" width="30%" height="300px">
+  <img src="/assets/without_m_ipad.png?raw=true" alt="Image 1" width="30%" >
+  <img src="/assets/without_m_mobile.png?raw=true" alt="Image 2" width="30%">
+  <img src="/assets/without_m_web.png?raw=true" alt="Image 3" width="30%">
 </p>
 
 #### With size matters
 <p align="center">
-  <img src="/assets/with_m_ipad.png?raw=true" alt="Image 1" width="30%" height="300px">
-  <img src="/assets/with_m_mobile.png?raw=true" alt="Image 2" width="30%" height="300px">
-  <img src="/assets/with_m_web.png?raw=true" alt="Image 3" width="30%" height="300px">
+  <img src="/assets/with_m_ipad.png?raw=true" alt="Image 1" width="30%">
+  <img src="/assets/with_m_mobile.png?raw=true" alt="Image 2" width="30%">
+  <img src="/assets/with_m_web.png?raw=true" alt="Image 3" width="30%">
 </p>
 
 ## Usage
