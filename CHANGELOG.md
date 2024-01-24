@@ -1,3 +1,3 @@
-## 1.0.2
+## 1.0.3
 
-* Version solving failed issue fixed
+* Added valid description in the readme file
