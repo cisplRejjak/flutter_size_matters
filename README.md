@@ -8,20 +8,20 @@ Discover the ultimate solution for Flutter app development with our streamlined 
 #### Web
 
 <p align="center">
-  <img src="/assets/without_m_web.png?raw=true" alt="Image 1" width="30%">
-  <img src="/assets/with_m_web.png?raw=true" alt="Image 2" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/without_m_web.png?raw=true" alt="Image 1" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/with_m_web.png?raw=true" alt="Image 2" width="30%">
 </p>
 
 #### Mobile
 <p align="center">
-  <img src="/assets/without_m_mobile.png?raw=true" alt="Image 3" width="30%">
-  <img src="/assets/with_m_mobile.png?raw=true" alt="Image 4" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/without_m_mobile.png?raw=true" alt="Image 3" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/with_m_mobile.png?raw=true" alt="Image 4" width="30%">
 </p>
 
 #### iPad
 <p align="center">
-  <img src="/assets/without_m_ipad.png?raw=true" alt="Image 5" width="30%">
-  <img src="/assets/with_m_ipad.png?raw=true" alt="Image 6" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/without_m_ipad.png?raw=true" alt="Image 5" width="30%">
+  <img src="https://raw.githubusercontent.com/cisplRejjak/flutter_size_matters/main/assets/with_m_ipad.png?raw=true" alt="Image 6" width="30%">
 </p>
 
 ## Usage
