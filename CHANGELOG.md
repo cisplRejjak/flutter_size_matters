@@ -1,3 +1,3 @@
-## 1.0.3
+## 1.0.5
 
-* Added valid description in the readme file
+* Added example folder
